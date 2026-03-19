@@ -5,10 +5,16 @@ Transport companies must optimize routes while considering CO2 impact, cost, and
 
 
 Parameters:
+
 •	Simulate scenarios (rail/road/river/bike) for each shipment
+
 •	Integrate CO2 model (e.g., EcoTransIT) for emissions impact
+
 •	Compare scenarios by cost, time, and emissions
+
 •	Recommend best-fit option with rationale
+
 •	Notify customers of low-carbon alternatives for approval
+
 •	Factor in postponement willingness or shared loads
 
